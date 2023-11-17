@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+   align-content:center;
+   justify-content: space-evenly;
+   justify-content:space-around;
+   margin: 9em auto 10em;
+    
+}
+.h1{
+text-align: center;
+height: 20px;
+;
+}
+.moreNewsButton{
+    align-content: center;
+    margin: 20 auto 10;
+}
